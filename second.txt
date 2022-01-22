@@ -1,3 +1,4 @@
 3st version 
 not commit
 tracked file
+push chcecking
